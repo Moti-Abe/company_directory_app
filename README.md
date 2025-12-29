@@ -70,13 +70,13 @@ Name, Address, Country, Industry, Employee count, CEO name
 
 To get started with this project, clone the repository and run the app using your preferred Flutter environment.
 
-Contact
+#### Contact
 
 Email: motiabe8@gmail.com
 
 Phone: +251 992172455
 
-### 📌 Notes
+## 📌 Notes
 
 - This project is built for learning and demonstration purposes.
 
