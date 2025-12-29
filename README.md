@@ -19,7 +19,7 @@ The app demonstrates core Flutter concepts, API integration, state management us
 
 - Navigation using GetX
 
-### Tech Stack
+### 🧱 Tech Stack
 
 - Flutter
 
@@ -31,7 +31,7 @@ The app demonstrates core Flutter concepts, API integration, state management us
 
 - SharedPreferences (Local storage)
 
-### API Used
+### 🌐 API Used
 
 https://fake-json-api.mock.beeceptor.com/companies
 
@@ -39,29 +39,6 @@ The API returns a list of companies with details such as:
 
 Name, Address, Country, Industry, Employee count, CEO name
 
-name
-
-### 📂 Project Structure (Simplified & Scalable)
-
-lib/
-├── main.dart
-├── models/
-│   └── company.dart
-├── controllers/
-│   └── company_controller.dart
-├── services/
-│   ├── api_service.dart
-│   └── local_storage_service.dart
-├── screens/
-│   ├── company_list_screen.dart
-│   ├── company_detail_screen.dart
-│   └── feedback_screen.dart
-├── widgets/
-│   ├── company_tile.dart
-│   └── loading_indicator.dart
-└── utils/
-    ├── app_routes.dart
-    └── app_validators.dart
 
 ### 🧭 App Screens
 
@@ -82,6 +59,16 @@ lib/
 - Form with validation
 
 - Displays success message on submit
+
+### 💾 Local Storage
+
+- Favorite company IDs are stored using SharedPreferences
+
+- Data persists even after app restart
+
+Favorite company IDs are stored using SharedPreferences
+
+Data persists even after app restart
 
 ## Getting Started
 
