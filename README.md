@@ -1,20 +1,13 @@
 # company_directory_app
-<<<<<<< HEAD
-This is a company directory app
-=======
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, clone the repository and run the app using your preferred Flutter environment.
 
-A few resources to get you started if this is your first Flutter project:
+Contact
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Email: motiabe8@gmail.com
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 294bd8a (initial commit)
+Phone: +251 992172455
