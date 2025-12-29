@@ -5,31 +5,31 @@ The app demonstrates core Flutter concepts, API integration, state management us
 
 ### 🚀 Features
 
-📋 Display list of companies fetched from a remote API
+- Display list of companies fetched from a remote API
 
-🔍 View detailed information for each company
+- View detailed information for each company
 
-❤️ Mark / unmark companies as favorites (stored locally)
+- Mark / unmark companies as favorites (stored locally)
 
-💾 Persistent favorites using SharedPreferences
+- Persistent favorites using SharedPreferences
 
-📝 Feedback form with validation
+- Feedback form with validation
 
-🔄 Loading & error handling
+- Loading & error handling
 
-🧭 Navigation using GetX
+- Navigation using GetX
 
 ### Tech Stack
 
-Flutter
+- Flutter
 
-Dart
+- Dart
 
-GetX (State management & navigation)
+- GetX (State management & navigation)
 
-HTTP (API calls)
+- HTTP (API calls)
 
-SharedPreferences (Local storage)
+- SharedPreferences (Local storage)
 
 ### API Used
 
@@ -37,17 +37,7 @@ https://fake-json-api.mock.beeceptor.com/companies
 
 The API returns a list of companies with details such as:
 
-Name
-
-Address
-
-Country
-
-Industry
-
-Employee count
-
-CEO name
+Name, Address, Country, Industry, Employee count, CEO name
 
 
 ## Getting Started
