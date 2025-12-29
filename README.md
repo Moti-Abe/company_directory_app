@@ -66,10 +66,6 @@ Name, Address, Country, Industry, Employee count, CEO name
 
 - Data persists even after app restart
 
-Favorite company IDs are stored using SharedPreferences
-
-Data persists even after app restart
-
 ## Getting Started
 
 To get started with this project, clone the repository and run the app using your preferred Flutter environment.
@@ -79,3 +75,13 @@ Contact
 Email: motiabe8@gmail.com
 
 Phone: +251 992172455
+
+### 📌 Notes
+
+- This project is built for learning and demonstration purposes.
+
+- No backend is used for feedback submission (stored locally only).
+
+## 👤 Author
+
+Moti Abe
