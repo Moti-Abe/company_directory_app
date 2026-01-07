@@ -74,8 +74,6 @@ To get started with this project, clone the repository and run the app using you
 
 Email: motiabe8@gmail.com
 
-Phone: +251 992172455
-
 ## 📌 Notes
 
 - This project is built for learning and demonstration purposes.
