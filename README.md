@@ -37,7 +37,12 @@ https://fake-json-api.mock.beeceptor.com/companies
 
 The API returns a list of companies with details such as:
 
-Name, Address, Country, Industry, Employee count, CEO name
+Name 
+Address
+Country
+Industry
+Employee count
+CEO name.
 
 
 ### 🧭 App Screens
